@@ -1,6 +1,6 @@
 ## StockSage
-Install requirements.txt: pip install -r requirements.txt
-Run the application locally: streamlit run app.py
+1. Install requirements.txt: pip install -r requirements.txt
+2. Run the application locally: streamlit run app.py
 
 View and Working of the application
 ![image](https://github.com/user-attachments/assets/98f45bc3-028f-445f-a661-a985dd796ab8)
